@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CS Student | 🌐 Web Dev | 🤖 ML | 📊 Data<br>I'm a Computer Science student with a interest in technology. I enjoy learning technology, whether through web design and development, machine learning, or data analysis. I'm currently seeking opportunities to continue learning and collaborate on innovative projects. beri emoji atau apa agar menarik
+💻 CS Student | 🌐 Web Dev | 🤖 ML | 📊 Data<br>I'm a Computer Science student with a interest in technology. I enjoy learning technology, whether through web design and development, machine learning, or data analysis. I'm currently seeking opportunities to continue learning and collaborate on innovative projects.
 
 
 ## 🌐 Socials:
